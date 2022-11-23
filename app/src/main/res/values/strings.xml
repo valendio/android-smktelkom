@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bmi app</string>
+    <string name="dropdown_jk">Jenis Kelamin</string>
+    <string-array name="jk_array">
+        <item>Pilih</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
